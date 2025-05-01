@@ -24,5 +24,5 @@ public class FirstNonReapeatingCharacter {
 		return "no non-repeating characters";
 		
 	}
-
+	
 }
