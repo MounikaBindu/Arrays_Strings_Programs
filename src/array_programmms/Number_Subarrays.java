@@ -47,7 +47,7 @@ public class Number_Subarrays {
 		
 	}
 	public static void main(String[] args) {
-		int[] arr= {10,5,2,6,9};
+		int[] arr= {10,5,2,6};
 		int k=100;
 		System.out.println(subArray(arr,k));
 	}

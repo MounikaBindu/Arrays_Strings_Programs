@@ -8,7 +8,7 @@ import java.util.Set;
 public class First_Missing_positivenumber {
 
 	public static void main(String[] args) {
-		int[] arr= {1,2,0};
+		int[] arr= {0, 2, 2, 1, 1};
 		System.out.println(firstMissingInteger(arr));
 	}
 //	public static int  firstMissingInteger(int[] arr) {
